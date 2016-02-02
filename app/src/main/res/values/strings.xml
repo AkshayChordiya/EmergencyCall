@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Emergency</string>
+
+    <!-- Actions -->
+    <string name="addNumber">Add Number</string>
+    <string name="performAction">Perform Action</string>
+    <string name="callNumber">Call</string>
+    <string name="messageNumber">Message</string>
+
+    <!-- Fields -->
+    <string name="dialogName">Name</string>
+    <string name="dialogNumber">Number</string>
+    
+</resources>
